@@ -1,0 +1,5 @@
+This question is easy. Since we only need to compare the result with the current longest.
+
+One good way is to record the last seen index and do the comparison.
+
+Runtime: 16ms
